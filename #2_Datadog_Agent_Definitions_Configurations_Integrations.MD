@@ -3,7 +3,6 @@
 ### Overview of the Section
 * **[Datadog Agent - definitions and configurations](#agent)**
 
-
 #
 ### <a name="agent">Datadog Agent - definitions and configurations</a>
 
@@ -23,8 +22,7 @@ The main components are two:
 The main configuration file is: ``C:\ProgramData\Datadog\datadog.yaml``
 Configuration files for Integrations are in: ``C:\ProgramData\Datadog\conf.d``
 
-
-![Agent]()
+![Agent](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/03.JPG)
 
 
 **[Back To The Top](#Overview-of-the-Section)**
