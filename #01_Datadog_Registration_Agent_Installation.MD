@@ -1,4 +1,4 @@
-<h1 align="center">Datadog_Registration_Agent_Installation</h1>
+<h1 align="center">Datadog Registration and Agent Installation</h1>
 
 ### Overview of the Section
 * **[What is an Application Performance Management?](#apm)**
