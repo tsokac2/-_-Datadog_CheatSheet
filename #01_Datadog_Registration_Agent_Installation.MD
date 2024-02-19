@@ -2,6 +2,7 @@
 
 ### Overview of the Section
 * **[What is an Application Performance Management?](#apm)**
+* **[Datadog](#Datadog)**
 * **[Basic Definitions - host, agent and tags](#basic)**
 
 #
@@ -17,6 +18,15 @@ A practice to monitor application insights, so we can:
 ![apm](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/01.JPG)
 
 ![apm-2](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/02.JPG)
+
+#
+### <a name="datadog"></a>
+
+**Datadog** is a cloud-based monitoring and analytics platform that provides comprehensive observability into the performance of applications, infrastructure, and logs. 
+
+It is widely used by organizations to gain insights into their IT environments, detect and troubleshoot issues, and optimize performance. 
+
+Datadog offers a range of features, including real-time monitoring, alerting, dashboarding, and collaboration tools.
 
 **[Back To The Top](#Overview-of-the-Section)**
 #
