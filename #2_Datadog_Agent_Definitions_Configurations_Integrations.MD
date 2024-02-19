@@ -19,8 +19,8 @@ The main components are two:
 1. Collector – which collects data from your host on every 15 seconds
 2. Forwarder – which sends data to Datadog over https
 
-The main configuration file is: ``C:\ProgramData\Datadog\datadog.yaml``
-Configuration files for Integrations are in: ``C:\ProgramData\Datadog\conf.d``
+- The main configuration file is: ``C:\ProgramData\Datadog\datadog.yaml``
+- Configuration files for Integrations are in: ``C:\ProgramData\Datadog\conf.d``
 
 ![Agent](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/03.JPG)
 
