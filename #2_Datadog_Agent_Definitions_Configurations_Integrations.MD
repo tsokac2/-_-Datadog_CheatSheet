@@ -1,8 +1,9 @@
 <h1 align="center">Datadog Agent: Definitions, Configurations and Integrations</h1>
 
 ### Overview of the Section
-* **[Datadog Agent - definitions and configurations](#agent)**
-* **[Datadog Agent - display host basic metrics and default host dashboards](#display-host)**
+* **[Definitions and configurations](#agent)**
+* **[Display host basic metrics and default host dashboards](#display-host)**
+* **[Integration with Internet Information Server (IIS)](#iss)**
 
 #
 ### <a name="agent">Datadog Agent - definitions and configurations</a>
@@ -24,13 +25,45 @@ The main components are two:
 
 ![Agent](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/03.JPG)
 
-
 **[Back To The Top](#Overview-of-the-Section)**
 #
 ### <a name="display-host">Datadog Agent - display host basic metrics and default host dashboards</a>
 
-![Active Host]()
+#### 1. Datadog Agent:
 
+- Installed on the host, collects various metrics.
+- Provides information about:
+    - Agent version
+    - System metrics (CPU, memory, network, etc.)
+    - Custom tags (e.g., location)
+
+#### 2. Default Cost Dashboards:
+Created automatically after agent installation.
+
+**Five dashboards available**:
+- Host counts
+- Monitor notifications
+- System disk latency
+- System metrics
+- System networking
+
+#### 3. Using Custom Tags for Cost Filtering:
+
+- Define custom tags (e.g., location) for your host.
+- Use these tags to filter and view cost associated with specific locations.
+
+#### 4. Key Points:
+- Datadog agent collects various system metrics.
+- Default dashboards provide basic overviews of system health and cost.
+- Custom tags can be used for advanced filtering and cost analysis.
+
+![Active Host](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/04.JPG)
 
 **[Back To The Top](#Overview-of-the-Section)**
 #
+
+### <a name="iss">Datadog Agent - integration with Internet Information Server (IIS)</a>
+
+
+
+**[Back To The Top](#Overview-of-the-Section)**
