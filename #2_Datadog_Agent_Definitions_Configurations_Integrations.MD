@@ -2,10 +2,10 @@
 
 ### Overview of the Section
 * **[Datadog Agent - definitions and configurations](#agent)**
+* **[Datadog Agent - display host basic metrics and default host dashboards](#display-host)**
 
 #
 ### <a name="agent">Datadog Agent - definitions and configurations</a>
-
 
 **What is a Software Integration?**
 Software integration is the process of combining to separate isolated software pieces to work together.
@@ -23,6 +23,13 @@ The main components are two:
 - Configuration files for Integrations are in: ``C:\ProgramData\Datadog\conf.d``
 
 ![Agent](https://github.com/tsokac2/-_-Datadog_CheatSheet/blob/main/src/03.JPG)
+
+
+**[Back To The Top](#Overview-of-the-Section)**
+#
+### <a name="display-host">Datadog Agent - display host basic metrics and default host dashboards</a>
+
+![Active Host]()
 
 
 **[Back To The Top](#Overview-of-the-Section)**
